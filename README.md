@@ -1,4 +1,9 @@
-### Hi there 👋
+# FLAK-ZOSO
+[![FLAK-ZOSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLAK-ZOSO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **FLAK-ZOSO/FLAK-ZOSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
