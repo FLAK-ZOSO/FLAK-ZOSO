@@ -11,7 +11,7 @@
 - [x] Improve my `Python` creating [`Discord.py` Bots](https://github.com/FLAK-ZOSO/Discord.py/tree/Papocchio)
 - [x] Learn the [syntax of `C++`](https://github.com/FLAK-ZOSO/C/blob/Tris/Tris%203.cpp)
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
-- [ ] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
+- [x] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
 - [ ] Improve my `JavaScript` using `Node.js`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [ ] Learn how to create a `Web API` with `Python`
