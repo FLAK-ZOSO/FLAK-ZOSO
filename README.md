@@ -1,10 +1,10 @@
 # FLAK-ZOSO
 
 - I'm not so active on GitHub <br>
-[![FLAK-ZOSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![FLAK-ZOSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - I only use a few languages, such as Python and JavaScript <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLAK-ZOSO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLAK-ZOSO&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # To do list
 - [x] Learn the [basics of `Python`](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/matematica/statistica.py), writing [some inefficient](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/Tavola-periodica/Tavola%20Periodica%202.0%20corretta%20(oltre%20il%20terzo%20periodo).py) and [some useless](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/codice-fiscale/Conversioni_tipi.py) code
