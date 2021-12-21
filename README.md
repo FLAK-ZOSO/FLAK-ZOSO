@@ -16,7 +16,8 @@
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
 - [x] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
 - [ ] Discover how to use `SCSS` in `HTML` pages
-- [ ] Create [my own website](https://github.com/FLAK-ZOSO/Website/releases)
+- [x] Create [my own website](https://github.com/FLAK-ZOSO/Website/releases)
+- [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
 - [ ] Improve my `JavaScript` using `Node.js`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [ ] Learn how to create a `Web API` with `Python`
