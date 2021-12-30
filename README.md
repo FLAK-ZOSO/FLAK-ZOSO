@@ -18,6 +18,7 @@
 - [ ] Discover how to use `SCSS` in `HTML` pages
 - [x] Create [my own website](https://github.com/FLAK-ZOSO/Website/releases)
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
+- [ ] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
 - [ ] Improve my `JavaScript` using `Node.js`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [ ] Learn how to create a `Web API` with `Python`
@@ -27,6 +28,10 @@
 # About me
 - 📫 How to reach me: [Nonciclopedia](https://nonciclopedia.org/wiki/Utente:FLAK-ZOSO)
 - 🌱 I’m currently learning `HTML5`
+- 🔭 I’m currently working on [a package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
+- 👯 I’m looking to collaborate on a Website's source code
+- 🤔 I’m looking for help with `SCSS` in `HTML` pages
+- 💬 Ask me about `Discord.py`
 
 # Contact me
 <p align="left">
