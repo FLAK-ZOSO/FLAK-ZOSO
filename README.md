@@ -18,7 +18,8 @@
 - [ ] Discover how to use `SCSS` in `HTML` pages
 - [x] Create [my own website](https://github.com/FLAK-ZOSO/Website/releases)
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
-- [ ] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
+- [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
+- [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Markdown/releases) converting `.txt` to `.html`
 - [ ] Improve my `JavaScript` using `Node.js`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [ ] Learn how to create a `Web API` with `Python`
