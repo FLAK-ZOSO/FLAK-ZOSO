@@ -1,12 +1,10 @@
-# FLAK-ZOSO
-
-[![FLAK-ZOSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLAK-ZOSO&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Stats
 <p align="center">
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flak-zoso&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="600em" src="https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO&show_icons=true&theme=dark&count_private=true">
+	<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flak-zoso&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<a href="https://profile.codersrank.io/user/flak-zoso#Tech%20Skills">
-    <img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flak-zoso&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
-  </a>
+		<img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flak-zoso&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
+	</a>
 </p>
 
 # To do list
@@ -33,6 +31,21 @@
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
 - 💬 Ask me about `Discord.py`
+
+# Languages
+<a href="https://www.python.org" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+
 
 # Contact me
 <p align="left">
