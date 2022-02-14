@@ -28,8 +28,10 @@
 - 📫 How to reach me: [Nonciclopedia](https://nonciclopedia.org/wiki/Utente:FLAK-ZOSO)
 - 🌱 I’m currently learning `HTML5`
 - 🔭 I’m currently working on [a package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
+- 🔭 I’m currently working on [a C++ game](https://github.com/FLAK-ZOSO/Labirint) called `Labirint`
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
+- 🤔 I’m looking for help with [`FooBar`](https://foobar.withgoogle.com/) challenge which I was invited to
 - 💬 Ask me about `Discord.py`
 
 # Languages
