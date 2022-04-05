@@ -18,7 +18,10 @@
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Markdown/releases) converting `.txt` to `.html`
-- [ ] Improve my `JavaScript` using `Node.js`
+- [x] Improve my `JavaScript` messing up with [`Node.js`](https://github.com/FLAK-ZOSO/Node.js)
+- [ ] Create a `backend` using `Node.js`
+- [ ] Learn the basics of [`C#`](https://github.com/FLAK-ZOSO/.NET)
+- [ ] Learn the basics of `.NET`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [ ] Learn how to create a `Web API` with `Python`
 - [ ] Create a `Web API`
