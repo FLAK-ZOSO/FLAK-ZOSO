@@ -9,7 +9,7 @@
 
 # To do list
 - [x] Learn the [basics of `Python`](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/matematica/statistica.py), writing [some inefficient](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/Tavola-periodica/Tavola%20Periodica%202.0%20corretta%20(oltre%20il%20terzo%20periodo).py) and [some useless](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/codice-fiscale/Conversioni_tipi.py) code
-- [x] Improve my `Python` creating [`Discord.py` Bots](https://github.com/FLAK-ZOSO/Discord.py/tree/Papocchio)
+- [x] Improve my `Python` creating [`Discord.py` Bots](https://github.com/FLAK-ZOSO/Emilia)
 - [x] Learn the [syntax of `C++`](https://github.com/FLAK-ZOSO/C/blob/Tris/Tris%203.cpp)
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
 - [x] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
@@ -24,14 +24,15 @@
 - [ ] Learn the basics of `.NET`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
 - [x] Learn how to create a [`Web API wrapper`](https://github.com/Lioydiano/Classeviva) with `Python`
-- [ ] Create a `Web API`
+- [ ] Create a [`dynamic website`](https://github.com/LiveClub)
+- [x] Create a [`C++ terminal videogame`](https://flak-zoso.github.io/src/repo/Forsiktig/about.html)
+- [x] Qualify for `OII` national finals
 
 
 # About me
 - 📫 How to reach me: [Nonciclopedia](https://nonciclopedia.org/wiki/Utente:FLAK-ZOSO)
-- 🌱 I’m currently learning `HTML5`
-- 🔭 I’m currently working on [a package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
-- 🔭 I’m currently working on [a C++ game](https://github.com/FLAK-ZOSO/Labirint) called `Labirint`
+- 🌱 I’m currently learning `C++ STL`
+- 🔭 I’m currently working on [a C++ game](https://github.com/FLAK-ZOSO/Labirint) called `Forsiktig`
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
 - 🤔 I’m looking for help with [`FooBar`](https://foobar.withgoogle.com/) challenge which I was invited to
