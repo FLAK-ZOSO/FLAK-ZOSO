@@ -14,7 +14,7 @@
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
 - [x] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
 - [ ] Discover how to use `SCSS` in `HTML` pages
-- [x] Create [my own website](https://github.com/FLAK-ZOSO/Website/releases)
+- [x] Create [my own website](https://flak-zoso.github.io)
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Markdown/releases) converting `.txt` to `.html`
