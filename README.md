@@ -30,9 +30,9 @@
 
 
 # About me
-- 📫 How to reach me: [Nonciclopedia](https://nonciclopedia.org/wiki/Utente:FLAK-ZOSO)
+- 📫 How to reach me: [Nonciclopedia](https://flak-zoso.github.io)
 - 🌱 I’m currently learning `C++ STL`
-- 🔭 I’m currently working on [a C++ game](https://github.com/FLAK-ZOSO/Labirint) called `Forsiktig`
+- 🔭 I’m currently working on [a C++ module](https://github.com/FLAK-ZOSO/Sista) called `Sista`
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
 - 🤔 I’m looking for help with [`FooBar`](https://foobar.withgoogle.com/) challenge which I was invited to
