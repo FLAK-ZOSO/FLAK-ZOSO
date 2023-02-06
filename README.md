@@ -30,7 +30,7 @@
 
 
 # About me
-- 📫 How to reach me: [Nonciclopedia](https://flak-zoso.github.io)
+- 📫 How to reach me: [Website](https://flak-zoso.github.io)
 - 🌱 I’m currently learning `C++ STL`
 - 🔭 I’m currently working on [a C++ module](https://github.com/FLAK-ZOSO/Sista) called `Sista`
 - 👯 I’m looking to collaborate on a Website's source code
