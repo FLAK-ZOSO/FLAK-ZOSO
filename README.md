@@ -31,7 +31,7 @@
 
 # About me
 - 📫 How to reach me: [Website](https://flak-zoso.github.io)
-- 🌱 I’m currently learning `C++ STL`
+- 🌱 I’m currently learning `Java`
 - 🔭 I’m currently working on [a C++ module](https://github.com/FLAK-ZOSO/Sista) called `Sista`
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
