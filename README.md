@@ -8,7 +8,6 @@
 </p>
 
 # To do list
-- [x] Learn the [basics of `Python`](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/matematica/statistica.py), writing [some inefficient](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/Tavola-periodica/Tavola%20Periodica%202.0%20corretta%20(oltre%20il%20terzo%20periodo).py) and [some useless](https://github.com/FLAK-ZOSO/Python-3.9.1/blob/codice-fiscale/Conversioni_tipi.py) code
 - [x] Improve my `Python` creating [`Discord.py` Bots](https://github.com/FLAK-ZOSO/Emilia)
 - [x] Learn the [syntax of `C++`](https://github.com/FLAK-ZOSO/C/blob/Tris/Tris%203.cpp)
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
@@ -16,10 +15,7 @@
 - [ ] Discover how to use `SCSS` in `HTML` pages
 - [x] Create [my own website](https://flak-zoso.github.io)
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
-- [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Prompt/releases) simulating `Windows cmd prompt`
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Markdown/releases) converting `.txt` to `.html`
-- [x] Improve my `JavaScript` messing up with [`Node.js`](https://github.com/FLAK-ZOSO/Node.js)
-- [ ] Create a `backend` using `Node.js`
 - [ ] Learn the basics of [`C#`](https://github.com/FLAK-ZOSO/.NET)
 - [ ] Learn the basics of `.NET`
 - [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
@@ -27,11 +23,13 @@
 - [ ] Create a [`dynamic website`](https://github.com/LiveClub)
 - [x] Create a [`C++ terminal videogame`](https://flak-zoso.github.io/src/repo/Forsiktig/about.html)
 - [x] Qualify for `OII` national finals
+- [x] Qualify for `OliCyber` national finals [and win bronze medal 🥉]
+- [x] Create a [`C++ evolution simulator`](https://Lioydiano/Starklag)
 
 
 # About me
 - 📫 How to reach me: [Website](https://flak-zoso.github.io)
-- 🌱 I’m currently learning `Java`
+- 📬 How to reach me: Discord (flak_flak)
 - 🔭 I’m currently working on [a C++ module](https://github.com/FLAK-ZOSO/Sista) called `Sista`
 - 👯 I’m looking to collaborate on a Website's source code
 - 🤔 I’m looking for help with `SCSS` in `HTML` pages
