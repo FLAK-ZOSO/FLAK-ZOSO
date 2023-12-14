@@ -36,26 +36,9 @@
 - 🤔 I’m looking for help with [`FooBar`](https://foobar.withgoogle.com/) challenge which I was invited to
 - 💬 Ask me about `Discord.py`
 
-# Languages
-<a href="https://www.python.org" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-
-
 # Contact me
 <p align="left">
-	<a href="https://codepen.io/flak-zoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flak-zoso" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/15888601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15888601" height="30" width="40" /></a>
-	<a href="https://www.hackerrank.com/marchese_mattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marchese_mattia" height="30" width="40" /></a>
 	<a href="https://discord.gg/channels/@me/797844636281995274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FLAK_FLAK#3241" height="30" width="40" /></a>
 </p>
 
