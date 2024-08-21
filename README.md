@@ -12,13 +12,12 @@
 - [x] Learn the [syntax of `C++`](https://github.com/FLAK-ZOSO/C/blob/Tris/Tris%203.cpp)
 - [x] Learn the basics of `HTML`/`CSS`/`JavaScript`
 - [x] Improve my `Python` with a [Tic Tac Toe machine learning project](https://github.com/FLAK-ZOSO/Tris/releases)
-- [ ] Discover how to use `SCSS` in `HTML` pages
 - [x] Create [my own website](https://flak-zoso.github.io)
 - [x] Better learn the functionalities of GitHub creating [an organization](https://github.com/Lioydiano)
 - [x] Improve my `Python` with a [package](https://github.com/FLAK-ZOSO/Markdown/releases) converting `.txt` to `.html`
 - [ ] Learn the basics of [`C#`](https://github.com/FLAK-ZOSO/.NET)
 - [ ] Learn the basics of `.NET`
-- [ ] Learn using more `Python 3` basic libraries, such as `pandas` and `numpy` and `pymongo`
+- [ ] Learn using more `Python 3` common libraries, such as `pandas`, `numpy` and `scipy`
 - [x] Learn how to create a [`Web API wrapper`](https://github.com/Lioydiano/Classeviva) with `Python`
 - [ ] Create a [`dynamic website`](https://github.com/LiveClub)
 - [x] Create a [`C++ terminal videogame`](https://flak-zoso.github.io/src/repo/Forsiktig/about.html)
@@ -31,10 +30,8 @@
 - 📫 How to reach me: [Website](https://flak-zoso.github.io)
 - 📬 How to reach me: Discord (flak_flak)
 - 🔭 I’m currently working on [a C++ module](https://github.com/FLAK-ZOSO/Sista) called `Sista`
-- 👯 I’m looking to collaborate on a Website's source code
-- 🤔 I’m looking for help with `SCSS` in `HTML` pages
 - 🤔 I’m looking for help with [`FooBar`](https://foobar.withgoogle.com/) challenge which I was invited to
-- 💬 Ask me about `Discord.py`
+- 💬 Ask me about `nextcord`, `Classeviva.py` and `Sista-C++`
 
 # Contact me
 <p align="left">
