@@ -19,7 +19,7 @@
 - [ ] Learn the basics of `.NET`
 - [ ] Learn using more `Python 3` common libraries, such as `pandas`, `numpy` and `scipy`
 - [x] Learn how to create a [`Web API wrapper`](https://github.com/Lioydiano/Classeviva) with `Python`
-- [ ] Create a [`dynamic website`](https://github.com/LiveClub)
+- [x] Create a [`dynamic website`]()
 - [x] Create a [`C++ terminal videogame`](https://flak-zoso.github.io/src/repo/Forsiktig/about.html)
 - [x] Qualify for `OII` national finals
 - [x] Qualify for `OliCyber` national finals [and win bronze medal 🥉]
