@@ -2,9 +2,12 @@
 <p align="center">
 	<img width="600em" src="https://github-readme-stats.vercel.app/api?username=FLAK-ZOSO&show_icons=true&theme=dark&count_private=true">
 <!-- 	<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flak-zoso&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide="> -->
-	<a href="https://profile.codersrank.io/user/flak-zoso#Tech%20Skills">
+<!-- 	<a href="https://profile.codersrank.io/user/flak-zoso#Tech%20Skills">
 		<img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flak-zoso&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
-	</a>
+	</a> -->
+	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLAK-ZOSO&theme=default)
+	![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAK-ZOSO&theme=default)
+	![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLAK-ZOSO&theme=default&utcOffset=3) 
 </p>
 
 # To do list
