@@ -5,9 +5,9 @@
 <!-- 	<a href="https://profile.codersrank.io/user/flak-zoso#Tech%20Skills">
 		<img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flak-zoso&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
 	</a> -->
-	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLAK-ZOSO&theme=default)
-	![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAK-ZOSO&theme=default)
-	![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLAK-ZOSO&theme=default&utcOffset=3) 
+	<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FLAK-ZOSO&theme=default)">
+	<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAK-ZOSO&theme=default)">
+	<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FLAK-ZOSO&theme=default&utcOffset=3)">
 </p>
 
 # To do list
